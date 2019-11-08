@@ -17,7 +17,7 @@
 		<repository>	
 			<id>nexus-esprit</id>
 			<name>nexus-esprit</name>
-			<url>http://localhost:8081/repository/nexus-esprit/</url>
+			<url>http://localhost:8086/repository/nexus-esprit/</url>
 		</repository>
 	</distributionManagement>
 </project>
